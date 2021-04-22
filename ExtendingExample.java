@@ -24,7 +24,7 @@ class Count extends Thread
      System.out.println("My thread run is over" );
    }
 }
-class ExtendingExample
+class Extending
 {
    public static void main(String args[])
    {
